@@ -5,7 +5,7 @@
 Clone the project at
 
 ```bash
-git clone https://github.com/bdcorps/stripe-subscriptions-nodejs
+git clone https://github.com/Somtrip/tensorgoSaas.git
 ```
 
 
