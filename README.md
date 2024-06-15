@@ -14,3 +14,4 @@ git clone https://github.com/Somtrip/tensorgoSaas.git
 ## Start
 
 npm start
+project will start on localhost:5000
